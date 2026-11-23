@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: bitcoin-nomads
+    runtime: static
+    staticPublishPath: .
